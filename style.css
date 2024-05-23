@@ -29,7 +29,7 @@ body{
     width: 60%;
     background: none;
     border: 2px solid var(--clr-light);
-    font-size: 10%;
+    font-size: 130%;
 }
 
 #flipbtn:hover{
