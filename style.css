@@ -16,7 +16,7 @@ body{
     height: 100vh;
     display: grid;
     place-items: center;
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0,0,0,0.9);
 }
 #container{
     display: grid;
